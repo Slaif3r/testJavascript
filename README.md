@@ -1,0 +1,2 @@
+# testJavascript
+javascript array test
